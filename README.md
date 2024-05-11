@@ -1,7 +1,7 @@
 Name: Raja Arjun
-Id: 
+Id: CTML219
 Domain: Machine Learning
-Duration:
+Duration: 1st May 2024 - 1st Aug 2024
 Mentor: Sravani Gouni
 Description:
          In this task, we are simulating a scenario of predictive modeling for housing prices using a dataset inspired by California's housing market. The goal is to develop alinear regression model to predict median house prices based on various features such as geographical coordinates, housing characteristics, and socioeconomic factors.
